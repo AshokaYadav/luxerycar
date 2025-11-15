@@ -16,21 +16,20 @@ import TopBar from "@/component/TopBar";
 import WhyChoose from "@/component/WhyChoose";
 import cars from "@/data/cars.js"
 import carData from "@/data/carData"
+import AboutSection from "@/component/about/AboutSection";
+import ContactBookingSection from "@/component/about/ContactBookingSection";
 
 export default function Home() {
  
   return (
     <>  
       {/* Hero Section with Booking Form */}
-      <HeroWithBooking />
-      <AboutUs/>
-       <h1 className="text-2xl font-bold px-4 md:px-16 py-6">Available Cars</h1>
+    <AboutSection/>
       <CarGrid cars={cars} />
       <CarGrid cars={carData} />
       <SelfDriveCars/>
       <TermsSection/>
-      <WhyChoose/>
-      <Reviews/>
+      <ContactBookingSection/>
     </>
   );
 }
