@@ -32,10 +32,10 @@ export default function Footer() {
                   <path d="M3 4a1 1 0 00-1 1v10a1 1 0 001 1h1.05a2.5 2.5 0 014.9 0H10a1 1 0 001-1V5a1 1 0 00-1-1H3zM14 7a1 1 0 00-1 1v6.05A2.5 2.5 0 0115.95 16H17a1 1 0 001-1v-5a1 1 0 00-.293-.707l-2-2A1 1 0 0015 7h-1z" />
                 </svg>
               </div>
-              <h3 className="text-2xl font-bold">Fox Rental Cars</h3>
+              <h3 className="text-2xl font-bold">B2 Car Rentals</h3>
             </div>
             <p className="text-gray-400 leading-relaxed">
-              At Fox Rental Car, we prioritize your convenience, providing easy
+              At B2 Car Rental, we prioritize your convenience, providing easy
               booking options, competitive pricing, and exceptional customer
               support. From bustling cities to serene landscapes, our services span
               the length and breadth of the country.
@@ -110,7 +110,7 @@ export default function Footer() {
                 </div>
                 <div>
                   <p className="font-semibold text-white mb-1">Address</p>
-                  <p className="text-gray-400 text-sm">Plot No -55, Ramesh Nagar, Gokulpura, Jhotwara - 302012</p>
+                  <p className="text-gray-400 text-sm">Shiv Shakti Nagar, Plot no 4, mansarover, Amrit Nagar, Sunder Nagar, Jaipur, Rajasthan 302020</p>
                 </div>
               </li>
 
@@ -150,7 +150,7 @@ export default function Footer() {
         <div className="container mx-auto px-6 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-gray-400 text-sm">
             <p>
-              © 2025 <span className="text-white font-semibold">Fox Rental Car</span>. All rights reserved.
+              © 2025 <span className="text-white font-semibold">B2 Car Rental</span>. All rights reserved.
             </p>
             <p>
               Designed by{" "}

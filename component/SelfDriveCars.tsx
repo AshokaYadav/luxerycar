@@ -85,7 +85,7 @@ export default function SelfDriveCars() {
             Our Self Drive Cars
           </h2>
           <p className="text-center max-w-3xl mx-auto text-lg text-gray-600 leading-relaxed">
-            Fox Rental Car offers self-drive car rentals across India, giving you the freedom to travel at your own pace.
+            B2 Car Rental offers self-drive car rentals across India, giving you the freedom to travel at your own pace.
             Enjoy flexible rental plans, affordable pricing, and 24/7 support for a smooth and hassle-free journey.
           </p>
         </motion.div>

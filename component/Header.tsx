@@ -59,7 +59,7 @@ export default function Header() {
             </svg>
           </div>
           <div className="text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-            FOX RENTAL
+            B2 Car Rental
           </div>
         </motion.a>
 

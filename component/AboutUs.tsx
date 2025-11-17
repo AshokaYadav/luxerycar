@@ -62,13 +62,13 @@ export default function AboutUs() {
 
             {/* Heading */}
             <h2 className="text-4xl md:text-5xl font-bold text-gray-900 leading-tight">
-              About <span className="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">Fox Rental Car</span>
+              About <span className="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">B2 Car Rental</span>
             </h2>
 
             {/* Description */}
             <div className="space-y-4 text-gray-600 leading-relaxed">
               <p>
-                Welcome to <strong className="text-gray-900">Fox Rental Car</strong>, your trusted partner for 
+                Welcome to <strong className="text-gray-900">B2 Car Rental</strong>, your trusted partner for 
                 seamless and reliable car rental services across India. With a 
                 commitment to excellence, we offer a diverse fleet of well-maintained 
                 vehicles to cater to all your travel needs, whether for business, 
@@ -76,7 +76,7 @@ export default function AboutUs() {
               </p>
 
               <p>
-                At Fox Rental Car, we prioritize your convenience, providing easy 
+                At B2 Car Rental, we prioritize your convenience, providing easy 
                 booking options, competitive pricing, and exceptional customer 
                 support. From bustling cities to serene landscapes, our services span 
                 the length and breadth of the country, ensuring you have a dependable 
@@ -84,7 +84,7 @@ export default function AboutUs() {
               </p>
 
               <p className="text-blue-600 font-medium">
-                Discover the freedom of travel with Fox Rental Car—where every drive 
+                Discover the freedom of travel with B2 Car Rental—where every drive 
                 is smooth, safe, and memorable.
               </p>
             </div>

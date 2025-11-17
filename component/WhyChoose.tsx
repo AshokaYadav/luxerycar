@@ -51,7 +51,7 @@ export default function WhyChoose() {
           className="text-center mb-16"
         >
           <h2 className="text-4xl font-bold text-gray-900 mb-3">
-            Why Choose Fox Rental Car?
+            Why Choose B2 Car Rental?
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-blue-500 to-indigo-500 mx-auto rounded-full"></div>
           <p className="text-gray-600 mt-4 max-w-2xl mx-auto">
