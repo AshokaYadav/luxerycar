@@ -86,7 +86,7 @@ export default function ContactBookingSection() {
             className="relative rounded-3xl overflow-hidden shadow-2xl h-[500px]"
           >
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28450.710342178907!2d75.70649737979348!3d26.95616858372612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db30bbe3b8d23%3A0x81b99ea52007f3b2!2sJhotwara%2C%20Jaipur%2C%20Rajasthan!5e0!3m2!1sen!2sin!4v1734449966123!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3953.832490069822!2d75.75491047543713!3d26.845043776687522!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjbCsDUwJzQyLjIiTiA3NcKwNDUnMjcuMCJF!5e1!3m2!1sen!2sin!4v1763383498786!5m2!1sen!2sin"
               width="100%"
               height="100%"
               style={{ border: 0 }}
