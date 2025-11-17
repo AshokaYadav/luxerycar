@@ -24,7 +24,7 @@ export default function ContactInfo() {
       <div>
         <h3 className="font-semibold">Address:</h3>
         <p className="text-gray-700">
-          Plot No -55, Ramesh Nagar, Gokulpura, Jhotwara-302012
+          Shiv Shakti Nagar, Plot no 4, mansarover, Amrit Nagar, Sunder Nagar, Jaipur, Rajasthan 302020
         </p>
       </div>
     </div>
