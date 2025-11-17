@@ -3,11 +3,11 @@ import { motion } from "framer-motion";
 
 export default function Footer() {
   const links = [
-    { name: "Home", href: "#home" },
-    { name: "About Us", href: "#about" },
-    { name: "Book Now", href: "#book" },
-    { name: "Gallery", href: "#gallery" },
-    { name: "Contact Us", href: "#contact" },
+    { name: "Home", href: "/" },
+    { name: "About Us", href: "/about" },
+    { name: "Book Now", href: "/book" },
+    { name: "Gallery", href: "/gallery" },
+    { name: "Contact Us", href: "/contact" },
   ];
 
   return (
